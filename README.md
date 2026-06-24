@@ -27,7 +27,7 @@ The <a href="#luLu">privacy monitoring use case</a> uses LuLu to discover which 
 The <a href="#luLu">corporate security use case</a> deploys LuLu on Mac workstations to enforce network access policies — preventing unauthorized software from communicating with external servers. <a href="#luLu">Regular updates from Objective-See</a> maintain LuLu's compatibility with new macOS versions — Patrick Wardle actively develops and maintains LuLu alongside other Objective-See security tools.</p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/236585/m/lulu-screenshot.png?v=1656437871" alt="LuLu screenshot"/>
+  <img src="https://pic.macked.app/static/021f548db573f2ccd138d3444bc66b49-1677505356.webp" alt="LuLu screenshot"/>
 </p>
 
 <a href="#luLu">Integration with other Objective-See tools</a> — LuLu is one of several free Mac security tools from Objective-See including BlockBlock, KnockKnock, and RansomWhere — together forming a comprehensive free security suite for macOS. <a href="#luLu">Minimal performance impact</a> monitors network connections with low CPU and memory overhead — LuLu runs as a background process without visibly affecting Mac performance.
